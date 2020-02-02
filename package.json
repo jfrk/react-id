@@ -20,5 +20,8 @@
     "clean": "rm -rf ./lib",
     "prepare": "yarn build",
     "prettier": "prettier --write '**/*.{js,json,md,yml}'"
+  },
+  "dependencies": {
+    "nanoid": "^2.1.8"
   }
 }
