@@ -1,5 +1,5 @@
 {
-  "name": "react-id",
+  "name": "@jfrk/react-id",
   "version": "1.0.0",
   "main": "lib/index.js",
   "author": "Fredrik Johansson <jeanfredrik@gmail.com>",
@@ -23,5 +23,8 @@
   },
   "dependencies": {
     "nanoid": "^2.1.8"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
