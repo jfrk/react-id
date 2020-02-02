@@ -1,9 +1,24 @@
 {
   "name": "@jfrk/react-id",
+  "description": "A React hook that ensures unique id attributes on HTML elements",
   "version": "1.0.0",
   "main": "lib/index.js",
   "author": "Fredrik Johansson <jeanfredrik@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfrk/react-id.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "react hook",
+    "unique id"
+  ],
+  "bugs": {
+    "url": "https://github.com/jfrk/react-id/issues"
+  },
+  "homepage": "https://github.com/jfrk/react-id#readme",
   "devDependencies": {
     "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",
